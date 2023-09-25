@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tarefas-Net7.Server.props" />
+</Project>

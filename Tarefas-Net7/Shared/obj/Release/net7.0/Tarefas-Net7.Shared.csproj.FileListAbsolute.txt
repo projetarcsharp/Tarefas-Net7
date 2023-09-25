@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\bin\Release\net7.0\Tarefas-Net7.Shared.deps.json
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\bin\Release\net7.0\Tarefas-Net7.Shared.dll
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\bin\Release\net7.0\Tarefas-Net7.Shared.pdb
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\Tarefas-Net7.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\Tarefas-Net7.Shared.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\Tarefas-Net7.Shared.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\Tarefas-Net7.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\Tarefas-Net7.Shared.dll
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\refint\Tarefas-Net7.Shared.dll
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\Tarefas-Net7.Shared.pdb
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Shared\obj\Release\net7.0\ref\Tarefas-Net7.Shared.dll

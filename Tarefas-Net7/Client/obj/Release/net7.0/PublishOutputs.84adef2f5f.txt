@@ -1,0 +1,1 @@
+C:\Users\rober\OneDrive\Curso-Developer\CSharp\Curso-Macoratti\Tarefas-Net7\Tarefas-Net7\Client\obj\Release\net7.0\browser-wasm\PubTmp\Out\web.config

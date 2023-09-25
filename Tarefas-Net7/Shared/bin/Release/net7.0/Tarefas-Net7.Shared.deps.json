@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tarefas-Net7.Shared/1.0.0": {
+        "runtime": {
+          "Tarefas-Net7.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefas-Net7.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
